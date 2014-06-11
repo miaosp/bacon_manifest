@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="CyanogenMod/android_bootable_recovery"/>
+  <project path="bootable/recovery" name="xiaolu/android_bootable_recovery" remote="github" revision="cm-11.0" />
+  <project path="device/oneplus/bacon" name="CyanogenMod/android_device_oneplus_bacon" remote="github" revision="cm-11.0" />
+  <project path="device/oppo/msm8974-common" name="CyanogenMod/android_device_oppo_msm8974-common" remote="github" revision="cm-11.0" />
+  <project path="device/oppo/common" name="CyanogenMod/android_device_oppo_common" remote="github" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-11.0" />
+  <project path="kernel/oneplus/msm8974" name="CyanogenMod/android_kernel_oneplus_msm8974" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="github" revision="cm-11.0" />
+</manifest>
+
